@@ -2,7 +2,7 @@
 
 Data Interpolation class
 
-Today the number of assertions per test is something set by company rules. Personaly, I have worked in companies that accepted only one assertion per test and lately, I worked in companies that encorage more than one assertion per test.
+Today the number of assertions per test is something set by company standarts. Personally, I have worked in companies that encouraged only one assertion per test. However, lately, I worked in companies that encouraged more than one assertion per test.
 
 In the test of this class I have taken the approach of more than one assertion per test.
 
