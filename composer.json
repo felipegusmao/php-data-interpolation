@@ -1,0 +1,22 @@
+{
+    "name": "fgusmao/meter-data",
+    "require": {
+        "phpunit/phpunit": "^5.4"
+    },
+    "authors": [
+        {
+            "name": "Felipe Gusmao",
+            "email": "fgunix@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Fgunix\\DataInterpolation\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Fgunix\\DataInterpolation\\Test\\": "tests"
+        }
+    }
+}
